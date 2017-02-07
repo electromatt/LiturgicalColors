@@ -2,7 +2,9 @@
 Liturgical Colors
 -----------------------------------------------------
 Type: WordPress plugin
+
 Author: Matthew Druckhammer
+
 Create Date: 11/29/2016
 
 
